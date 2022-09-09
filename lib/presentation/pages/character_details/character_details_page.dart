@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:marvel_characters/domain/characters/model/character.dart';
-import 'package:marvel_characters/extension/extension_mixin.dart';
 import 'package:marvel_characters/style/app_typography.dart';
 
 class CharacterDetailsPage extends StatelessWidget {
